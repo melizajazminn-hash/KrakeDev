@@ -1,1 +1,3 @@
 git clone: nos sirve para descargar una copia completa de un repositorio existente desde un servidor remoto
+ 
+git commit:sirve para guardar de forma permanente una instantánea de los cambios preparados en tu repositorio local
